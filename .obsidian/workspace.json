@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note_folder/hydra_thm.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note_folder/hydra_thm.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note_folder/hydra_thm.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note_folder/hydra_thm.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,11 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ca4f123f8361a09",
+  "active": "8d8c9aa8f1dc6db6",
   "lastOpenFiles": [
+    "Note_folder/hydra_thm.md",
     "README.md",
     "Note_folder/docker_thm.md",
-    "Note_folder/hydra_thm.md",
     "Note_folder/Pasted image 20240618160826.png",
     "Note_folder/Pasted image 20240618161812.png",
     "Note_folder/Pasted image 20240618162601.png",
