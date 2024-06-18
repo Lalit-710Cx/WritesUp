@@ -2,7 +2,7 @@
   "showInlineTitle": true,
   "spellcheck": false,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "attachmentFolderPath": "./",
   "newFileLocation": "current"
 }
