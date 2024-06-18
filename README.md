@@ -1,6 +1,7 @@
 # WriteUps [Security]
-## This directory is madeup for all my THM &lt;&lt; and &lt;&lt; HTB solving walkthrough
+## THM walkthrough:
 
 ### Docker [Notes](Note_folder/docker_thm.md)
 ### Hydra Bruteforce [Tool](Note_folder/hydra_thm.md)
 
+### Notes of  [Security_Principle](Note_folder/Security_Principle.md)
