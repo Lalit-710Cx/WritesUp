@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "b25a1303f4eb7c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b885dfdd9c43b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca4f123f8361a09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9d92de503baf8c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd798f7bdc4658e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d8c9aa8f1dc6db6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f3c781cec818c56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "278871ed3b5af90f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f0bd244b6f9a2113",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e83fb89e4b6c22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28b3e4ce05b54ce5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7351e4da0295a4ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42406e9f40e7f6f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0327a993867ef55e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4ca4f123f8361a09",
+  "lastOpenFiles": [
+    "docker_thm.md",
+    "README.md",
+    "Network_service_2.md",
+    "Intro-to-log-thm.md",
+    "network-services_thm.md",
+    "Pasted image 20240614194017.png",
+    "make Linkedin Better.md",
+    "Pasted image 20240614203716.png",
+    "Pasted image 20240614195318.png",
+    "Untitled.canvas",
+    "2024-06-14.md",
+    "**Enum4Linux**.md",
+    "Time and Space Complexity.md",
+    "block diagram.md",
+    "Arch_LInux/install.md",
+    "Untitled",
+    "Arch_LInux/Pasted image 20240601195200.png",
+    "Arch_LInux/Pasted image 20240601194814.png",
+    "token.txt",
+    "Arch_LInux",
+    "Bikram.md"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "showInlineTitle": true,
+  "spellcheck": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current"
+}
