@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0bd244b6f9a2113",
@@ -150,14 +149,14 @@
   },
   "active": "4ca4f123f8361a09",
   "lastOpenFiles": [
+    "Note_folder/docker_thm.md",
     "Note_folder/hydra_thm.md",
-    "README.md",
+    "Note_folder/Pasted image 20240618160826.png",
     "Note_folder/Pasted image 20240618161812.png",
     "Note_folder/Pasted image 20240618162601.png",
+    "README.md",
     "Note_folder/Pasted image 20240618162029.png",
     "Note_folder/Pasted image 20240618161639.png",
-    "Note_folder/Pasted image 20240618160826.png",
-    "Note_folder/docker_thm.md",
     "Note_folder",
     "docker_thm.md",
     "Network_service_2.md",
